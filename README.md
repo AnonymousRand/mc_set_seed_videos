@@ -10,7 +10,7 @@ Optifine is integrated within this client.
 3. Extract the zip
 4. Double click on the extracted folder, you should see both a folder and a README.md
 5. Copy that folder next to the README.md into your versions folder in .minecraft (default location of .minecraft can be accessed by pressing WindowsKey + R and typing in "%AppData%" without the quotation marks)
-6. Open Minecraft launcher and click the Installations tab. Create a new installation and select the version that corresponds with this modded client (should be named set-seed-videos with a version number at the end). Then, select this new intallation in the launcher home screen and click Play.
+6. Open Minecraft launcher and click the Installations tab. Create a new installation and select the version that corresponds with this modded client (should be named set-seed-videos with a version number or fork name at the end). Then, select this new intallation in the launcher home screen and click Play.
 
 # Warning:
 Do NOT use these modded clients during speedruns that will be submitted to the actual leaderboards, as doing so is cheating.
