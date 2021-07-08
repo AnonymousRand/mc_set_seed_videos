@@ -3,6 +3,8 @@ Modded Client used for unofficial set seed runs at Irvima https://www.youtube.co
 
 Optifine is integrated within this client as it seems impossible to integrate Sodium.
 
+Made with the MCP-Reborn Tool https://github.com/Hexeption/MCP-Reborn
+
 # Installation instructions:
 
 1. Click on "Releases" near the right side of the screen
