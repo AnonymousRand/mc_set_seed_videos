@@ -16,3 +16,5 @@ Optifine is integrated within this client.
 Do NOT use these modded clients during speedruns that will be submitted to the actual leaderboards, as doing so is cheating.
 
 As per Mojang guidelines, this modded client does not distribute any of the game's code.
+
+Versions 1-5 were not documented in separate releases on this Github.
