@@ -17,4 +17,4 @@ Do NOT use these modded clients during speedruns that will be submitted to the a
 
 As per Mojang guidelines, this modded client does not distribute any of the game's code.
 
-Versions 1-5 were not documented in separate releases on this Github.
+Version 1.0 was a non-Optifine version with less features and is not documented on this Github.
