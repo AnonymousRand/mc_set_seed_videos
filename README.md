@@ -1,9 +1,11 @@
 # Set-Seed-Videos
-Modded Client used for unofficial set seed runs at Irvima https://www.youtube.com/channel/UCeCT_BJS_o2avWBNiXxEk2w
+Modded Client used for unofficial set seed runs at Iseburg https://www.youtube.com/channel/UCeCT_BJS_o2avWBNiXxEk2w
 
 Optifine is integrated within this client as Fabric/Sodium seems to be incompatible.
 
 Made with the MCP-Reborn Tool https://github.com/Hexeption/MCP-Reborn
+
+For newer, updated versions using Fabric mods, check here: https://github.com/AnonymousRand/Set-Seed-Videos-Mod-Fabric
 
 # Installation instructions:
 
