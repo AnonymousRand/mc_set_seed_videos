@@ -1,4 +1,4 @@
-# Set-Seed-Videos
+# MC-Set-Seed-Videos
 
 Modded Minecraft 1.16.1 client with OptiFine. Used for unofficial set seed runs at [Iseburg](https://www.youtube.com/channel/UCeCT_BJS_o2avWBNiXxEk2w).
 
