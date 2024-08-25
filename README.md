@@ -1,11 +1,8 @@
 # Set-Seed-Videos
-Modded Client used for unofficial set seed runs at Iseburg https://www.youtube.com/channel/UCeCT_BJS_o2avWBNiXxEk2w
 
-Optifine is integrated within this client as Fabric/Sodium seems to be incompatible.
+Modded Minecraft 1.16.1 client with OptiFine. Used for unofficial set seed runs at [Iseburg](https://www.youtube.com/channel/UCeCT_BJS_o2avWBNiXxEk2w).
 
-Made with the MCP-Reborn Tool https://github.com/Hexeption/MCP-Reborn
-
-For newer, updated versions using Fabric mods, check here: https://github.com/AnonymousRand/Set-Seed-Videos-Mod-Fabric
+For newer versions (that are Fabric mods), check [here](https://github.com/AnonymousRand/Set-Seed-Videos-Mod-Fabric).
 
 # Installation instructions:
 
@@ -16,9 +13,6 @@ For newer, updated versions using Fabric mods, check here: https://github.com/An
 5. Copy that folder next to the README.md into your versions folder in .minecraft (default location of .minecraft can be accessed by pressing WindowsKey + R and typing in "%AppData%" without the quotation marks)
 6. Open Minecraft launcher and click the Installations tab. Create a new installation and select the version that corresponds with this modded client (should be named set-seed-videos with a version number or fork name at the end). Then, select this new intallation in the launcher home screen and click Play.
 
-# Warning:
-Do NOT use these modded clients during speedruns that will be submitted to the actual leaderboards, as doing so is cheating.
+---
 
-As per Mojang guidelines, this modded client does not distribute any of the game's code.
-
-Version 1.0 was a non-Optifine version with less features and is not documented on this repository.
+Made with [MCP-Reborn](https://github.com/Hexeption/MCP-Reborn).
