@@ -4,7 +4,7 @@ Modded Minecraft 1.16.1 client with OptiFine. Used for unofficial set seed runs 
 
 For newer versions (that are Fabric mods), check [here](https://github.com/AnonymousRand/Set-Seed-Videos-Mod-Fabric).
 
-# Installation instructions:
+# Installation guide:
 
 1. Click on "Releases" near the right side of the screen
 2. Download the source code zip from the release that you want under the "Assets" tab (descriptions of each release's features are included in the releases page)
